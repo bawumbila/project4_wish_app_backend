@@ -25,7 +25,7 @@ A fun web app recording your wishes.
 ![final Result](./public/imgs/final-touch.png) -->
 
 ## Getting started
-[click](https://react-dream-places.netlify.app/) 
+[click] (http://project4-wish.herokuapp.com/wishes) 
 
 <!-- ## Future Enhancements
 - Make the links clickable
