@@ -3,7 +3,7 @@ class WishesController < ApplicationController
 
   # GET /wishes
   def index
-    @wishes = Wish.order('created_at DESC')all
+    @wishes = Wish.order('created_at DESC')
 
     render json: @wishes
   end
